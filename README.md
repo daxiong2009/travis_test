@@ -1,7 +1,8 @@
 # Continuous Integration example for Python using Conda
 
 [![Build Status](https://travis-ci.org/dacb/codebase_conda.svg?branch=master)](https://travis-ci.org/dacb/codebase_conda)
-[![Coverage Status](https://coveralls.io/repos/github/dacb/codebase_conda/badge.svg?branch=master)](https://coveralls.io/github/dacb/codebase_conda?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/daxiong2009/travis_test/badge.svg?branch=master)](https://coveralls.io/github/daxiong2009/travis_test?branch=master)
+
 
 ### To get started
 * Go to https://travis-ci.org/ and sign using your GitHub account.  Click on the _+_ button next to the list of repositories on the left hand side. Select the repo from the list and enable the service by flipping the slider.
